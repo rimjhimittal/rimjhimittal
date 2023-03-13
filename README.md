@@ -33,14 +33,10 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rimjhimittal&theme=radical&hide_border=false" alt="rimjhimittal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rimjhimittal&show_icons=true&locale=en" alt="rimjhimittal" /></p>
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimjhimittal&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="rimjhimittal" /></p>
 
 
 
-
-![](https://github-readme-stats.vercel.app/api?username=anshb7&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anshb7&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshb7&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
